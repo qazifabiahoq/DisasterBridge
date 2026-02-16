@@ -21,7 +21,7 @@ function App() {
     setAnalysis(null);
 
     try {
-      const response = await fetch('http://localhost:3001/api/triage', {
+      const response = await fetch('https://disasterbridge.onrender.com/api/triage', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
