@@ -2,7 +2,7 @@
 ### AI-Powered Emergency Coordination for Operators and Coordinators
 
 Live Demo: https://disaster-bridge-git-main-qazi-fabia-hoqs-projects.vercel.app
-GitHub: https://github.com/qazifabiahoq/DisasterBridge
+
 
 ---
 
